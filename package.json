@@ -1,0 +1,13 @@
+{
+  "name": "com.verve.hybid-googleads-custom-adapter",
+  "version": "3.7.1.0",
+  "displayName": "HyBid GoogleAds Custom Mediation Adapter",
+  "description": "GoogleAds mediation custom adapter for HyBid SDK. Requires Google Mobile Ads Unity Plugin.",
+  "unity": "2021.3",
+  "keywords": ["ads", "mediation", "admob", "hybid", "verve", "googleads"],
+  "author": {
+    "name": "Verve Group",
+    "email": "eros.ponte@verve.com",
+    "url": "https://verve.com"
+  }
+}
